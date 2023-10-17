@@ -20,7 +20,7 @@ Material utilizado no minicurso "Git e Github: Desenvolvendo Habilidades Essenci
   - Enviando e Atualizando Modificações;
 - Enviando Contribuições com Pull Request;
 
-## 🧑 Authors:
+## 🧑 Autores:
 <table>
   <tr>
     <td align="center">
